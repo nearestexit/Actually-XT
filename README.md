@@ -3,7 +3,7 @@
 Tired of keyboards being called "XT" when all they have is two macro columns on the left? Wishing for an authentic XT Layout experience? Look no further!
 
 
-![Front](https://github.com/nearestexit/Actually-XT/blob/main/Pictures/front.png)
+![Front](https://github.com/nearestexit/Actually-XT/blob/main/Pictures/front.JPG)
 
 
 Designed in Onshape and EasyEDA.
@@ -17,7 +17,7 @@ PCB Source (EasyEDA): https://oshwlab.com/taylorswift22/new-project_2025-02-09_1
 Please note: this project is for reference only.
 
 
-![Back](https://github.com/nearestexit/Actually-XT/blob/main/Pictures/back.png)
+![Back](https://github.com/nearestexit/Actually-XT/blob/main/Pictures/back.JPG)
 
 
-![Side](https://github.com/nearestexit/Actually-XT/blob/main/Pictures/side.png)
+![Side](https://github.com/nearestexit/Actually-XT/blob/main/Pictures/side.JPG)
