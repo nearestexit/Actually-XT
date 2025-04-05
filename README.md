@@ -18,6 +18,7 @@ PCB Source (EasyEDA): https://oshwlab.com/taylorswift22/new-project_2025-02-09_1
 * Increased clearance around daughterboard
 * Changed PCB compatibility to support keycaps from NCR G80-0577
 
+![KLE](https://github.com/nearestexit/Actually-XT/blob/main/Pictures/kle.png)
 
 ## Bill of Materials
 
